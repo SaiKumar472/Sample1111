@@ -1,0 +1,34 @@
+Declarative: Checkout SCM
+	
+Cleanup	
+
+Revert VM snapshot	
+
+Choose machine	
+Choose relevant Jenkins server machine
+
+Create Virtual Machine	
+Topology File creation	After Creating the all the VM saving here
+Create Jenkins Slave	
+Download CxSAST	
+Install CxSAST	
+Verification On Clean Install	if any software missing
+Install Jenkins plugin	
+Problematic Global tests	
+Sanity tests	
+Regressions tests	
+Global config tests	
+Declarative: Post Actions
+ 
+
+it will execute here 3 condition 
+
+1) maven centeral repositer
+2) cxsast repositer
+3) git repo
+
+
+DSL(Domain Specfic Language)
+
+Agent
+An agent is typically a machine, or container, which connects to a Jenkins controller and executes tasks when directed by the controller
