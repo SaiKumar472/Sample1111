@@ -1,7 +1,3 @@
-
--- Change 3 --
-
-
 Declarative: Checkout SCM
 	
 Cleanup	
